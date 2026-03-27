@@ -1,6 +1,3 @@
-# 💫 Обо мне:
-🛠 Я сейчас работаю над:<br>Работаю удаленно. Сейчас занимаюсь порталом для груза-перевозок<br><br>🤝 Хочу сотрудничать над:<br>Интересными Java/Spring проектами, связанными с backend-разработкой, микросервисами или интеграциями.<br><br>🌱 Ищу помощь с:<br>Углублённым использованием Kubernetes и CI/CD для масштабируемых приложений.<br><br>🌿 Сейчас изучаю:<br>Big data, CI/CD with Kubernetes, Transactions, Algorithm & Data Structures  <br><br>💬 Спросите меня о:<br>Java, Spring Boot, REST API, Maven/Gradle, Git, работе в команде и удалённой разработке.<br><br>⚡ Факт обо мне:<br>Я активно занимаюсь спортом и стремлюсь становиться лучше каждый день — как в коде, так и в жизни.
-
 
 ## 🌐 Соц-сети:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wrsoz#5367) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wrsoz@mail.ru) 
